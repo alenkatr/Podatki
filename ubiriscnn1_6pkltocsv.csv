@@ -1,0 +1,17 @@
+"MLPClassifier(activation='logistic', alpha=1e-05, batch_size='auto', beta_1=0.9,
+              beta_2=0.999, early_stopping=False, epsilon=1e-08,
+              hidden_layer_sizes=(200,), learning_rate='constant',
+              learning_rate_init=0.001, max_fun=15000, max_iter=100000,
+              momentum=0.9, n_iter_no_change=10, nesterovs_momentum=True,
+              power_t=0.5, random_state=1, shuffle=True, solver='adam',
+              tol=0.0001, validation_fraction=0.1, verbose=False,
+              warm_start=False)"
+"['c', 'f', 'g', 'd', 'b', 'a', 'e']"
+100
+"[[ 47.5  20.    0.  ...   0.    0.5   3.5]
+ [ 70.   20.   19.  ...  12.    2.    3. ]
+ [ 30.  129.   25.  ...  15.   12.    6. ]
+ ...
+ [ 60.   41.   43.  ...   0.   28.   66. ]
+ [ 16.5  16.    4.  ...   0.5   0.    4. ]
+ [ 45.   40.    0.  ...   0.    0.    0. ]]"
